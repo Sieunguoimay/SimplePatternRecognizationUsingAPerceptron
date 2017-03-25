@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\google drive\cloud source code\simplepatternrecognizationusingaperceptron\patternrecognization\patternrecognization\main.cpp(4): warning C4930: 'Main mainProject(void)': prototyped function not called (was a variable definition intended?)
+  PatternRecognization.vcxproj -> E:\Google Drive\Cloud Source Code\SimplePatternRecognizationUsingAPerceptron\PatternRecognization\Debug\PatternRecognization.exe
+  PatternRecognization.vcxproj -> E:\Google Drive\Cloud Source Code\SimplePatternRecognizationUsingAPerceptron\PatternRecognization\Debug\PatternRecognization.pdb (Partial PDB)
