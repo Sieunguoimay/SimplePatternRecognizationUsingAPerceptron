@@ -119,10 +119,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\Important-Open-Source-Code\open-source\Clock.h" />
+    <ClInclude Include="..\..\..\Important-Open-Source-Code\open-source\GlobalHeader.h" />
+    <ClInclude Include="..\..\..\Important-Open-Source-Code\open-source\texture.h" />
+    <ClInclude Include="..\..\..\Important-Open-Source-Code\open-source\Window.h" />
     <ClInclude Include="Main.h" />
+    <ClInclude Include="Perceptron.h" />
+    <ClInclude Include="Project.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\Important-Open-Source-Code\open-source\Clock.cpp" />
+    <ClCompile Include="..\..\..\Important-Open-Source-Code\open-source\Texture.cpp" />
+    <ClCompile Include="..\..\..\Important-Open-Source-Code\open-source\Window.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Perceptron.cpp" />
+    <ClCompile Include="Project.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

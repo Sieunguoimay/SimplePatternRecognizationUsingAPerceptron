@@ -2,6 +2,7 @@
 #include"GlobalHeader.h"
 #include"Window.h"
 #include"Clock.h"
+#include"Project.h"
 class Main
 {
 public:
@@ -10,8 +11,9 @@ public:
 private:
 	void setup();
 	void loop();
-	Window window;
+	Window*window;
 	SDL_Renderer*renderer;
 	Clock clock;
+	Project*project;
 };
 

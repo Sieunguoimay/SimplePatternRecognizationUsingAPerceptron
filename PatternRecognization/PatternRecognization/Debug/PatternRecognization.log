@@ -1,4 +1,7 @@
-﻿  Main.cpp
-e:\google drive\cloud source code\simplepatternrecognizationusingaperceptron\patternrecognization\patternrecognization\main.cpp(4): warning C4930: 'Main mainProject(void)': prototyped function not called (was a variable definition intended?)
+﻿cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  Project.cpp
+e:\google drive\cloud source code\simplepatternrecognizationusingaperceptron\patternrecognization\patternrecognization\project.cpp(38): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+e:\google drive\cloud source code\simplepatternrecognizationusingaperceptron\patternrecognization\patternrecognization\project.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\google drive\cloud source code\simplepatternrecognizationusingaperceptron\patternrecognization\patternrecognization\project.cpp(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   PatternRecognization.vcxproj -> E:\Google Drive\Cloud Source Code\SimplePatternRecognizationUsingAPerceptron\PatternRecognization\Debug\PatternRecognization.exe
   PatternRecognization.vcxproj -> E:\Google Drive\Cloud Source Code\SimplePatternRecognizationUsingAPerceptron\PatternRecognization\Debug\PatternRecognization.pdb (Partial PDB)
